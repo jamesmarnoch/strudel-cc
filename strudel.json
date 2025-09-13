@@ -1,4 +1,8 @@
 {
     "_base": "https://raw.githubusercontent.com/jamesmarnoch/strudel-cc/master/",
-    "amen-1": "samples/breaks/rhythm-lab/The Bamboos - Amen Brother (part1).wav"
+    "amen-p1": "samples/breaks/rhythm-lab/The Bamboos - Amen Brother (part1).wav",
+    "amen-p2": "samples/breaks/rhythm-lab/The Bamboos - Amen Brother (part2).wav",
+    "amen-p3": "samples/breaks/rhythm-lab/The Bamboos - Amen Brother (part3).wav",
+    "amen-v1": "samples/breaks/rhythm-lab/The Winstons - Amen, Brother (ver.1).wav",
+    "amen-v2": "samples/breaks/rhythm-lab/The Winstons - Amen, Brother (ver.2).wav"
 }
